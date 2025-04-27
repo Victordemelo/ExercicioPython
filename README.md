@@ -1,4 +1,4 @@
-# 💻 Exercícios de Python – Curso em Vídeo
+# 💻 Exercícios de Python – Curso em Vídeo - Módulo 01
 
 Este repositório contém os exercícios realizados durante o curso de **Python** ministrado pelo professor **Gustavo Guanabara** no [Curso em Vídeo](https://www.cursoemvideo.com/). Os exercícios são introdutórios e cobrem conceitos básicos da linguagem Python.
 
