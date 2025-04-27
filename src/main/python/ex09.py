@@ -1,4 +1,4 @@
-#Objetivo: Criar um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
+#Objetivo: Faça um programa que leia um número inteiro e mostre na tela a sua tabuada.
 #Autor: Victor M
 
 print("Digite um numero para ver a tabuada: ")
