@@ -284,3 +284,25 @@
 #sorteio = random.choice(lista)
 
 #print("O aluno escolhido foi {}".format(sorteio))
+
+
+
+
+#Desafio 20#
+#import random
+#print("Digite o nome dos quatro alunos")
+#print("Aluno 01: ")
+#aluno01 = str(input())
+#print("Aluno 02:")
+#aluno02 = str(input())
+#print("Aluno 03: ")
+#aluno03 = str(input())
+#print("Aluno 04: ")
+#aluno04 = str(input())
+
+#lista = [aluno01, aluno02, aluno03, aluno04]
+
+#random.shuffle(lista)
+
+#print("A ordem dos alunos ficou: ")
+#print(lista)
