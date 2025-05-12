@@ -262,3 +262,25 @@
 #tangente = math.tan(angulo_radiano)
 
 #print("O Ângulo em graus foi {}, e o seno é {}, cosseno é {}, e a tangente é {}".format(angulo, seno, cosseno, tangente))
+
+
+
+
+#Desafio 19#
+#import random
+
+#print("Digite o nome dos quatro alunos")
+#print("Aluno 01: ")
+#aluno01 = input()
+#print("Aluno 02:")
+#aluno02 = input()
+#print("Aluno 03: ")
+#aluno03 = input()
+#print("Aluno 04: ")
+#aluno04 = input()
+
+#lista = [aluno01, aluno02, aluno03, aluno04]
+
+#sorteio = random.choice(lista)
+
+#print("O aluno escolhido foi {}".format(sorteio))
