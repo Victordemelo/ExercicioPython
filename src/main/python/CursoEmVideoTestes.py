@@ -246,3 +246,19 @@
 #hipotenusa = math.hypot(oposto, adjacente)
 
 #print("O cateto oposto é {}, o cateto adjacente é {}, e a hipotenusa do triângulo retângulo é: {}".format(oposto, adjacente, hipotenusa))
+
+
+
+
+#Desafio 18#
+#import math
+#print("Digite um ângulo qualquer: ")
+#angulo = float(input())
+
+#angulo_radiano = math.radians(angulo)
+
+#seno = math.sin(angulo_radiano)
+#cosseno = math.cos(angulo_radiano)
+#tangente = math.tan(angulo_radiano)
+
+#print("O Ângulo em graus foi {}, e o seno é {}, cosseno é {}, e a tangente é {}".format(angulo, seno, cosseno, tangente))
