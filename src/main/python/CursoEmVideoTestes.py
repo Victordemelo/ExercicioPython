@@ -201,3 +201,33 @@
 #salariobonus = salario + bonus
 
 #print("Parebéns, o seu salário de {:.2f}, sera aumentado para {:.2f}".format(salario, salariobonus))
+
+
+
+
+#Desafio 15#
+
+#import math;
+#ou
+#from math import sqrt
+
+
+#print("Digite o numero para obter a raiz: ")
+#raiz = int(input())
+
+#raizquadrada = math.sqrt(raiz)
+
+#print("A raiz quadrada é: {}".format(raizquadrada))
+
+
+
+
+#Desafio 16#
+#import math
+
+#print("Digite um número real: ")
+#real = float(input())
+
+#conversor = math.trunc(real)
+
+#print("O número real digitado foi {}, e a sua porção inteira é {}".format(real, conversor))
