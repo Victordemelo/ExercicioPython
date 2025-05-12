@@ -231,3 +231,18 @@
 #conversor = math.trunc(real)
 
 #print("O número real digitado foi {}, e a sua porção inteira é {}".format(real, conversor))
+
+
+
+
+#Desafio 17#
+#import math
+
+#print("Digite o cateto oposto: ")
+#oposto = float(input())
+#print("Digite o cateto adjacente: ")
+#adjacente = float(input())
+
+#hipotenusa = math.hypot(oposto, adjacente)
+
+#print("O cateto oposto é {}, o cateto adjacente é {}, e a hipotenusa do triângulo retângulo é: {}".format(oposto, adjacente, hipotenusa))
