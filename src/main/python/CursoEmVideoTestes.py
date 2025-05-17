@@ -370,16 +370,22 @@ print('O Milhar é: {}'.format(n_milhar))
 print('Digite um nome de uma cidade: ')
 cidade = str(input())
 
-procurar = (cidade.find('Santo'))
+cidade_lower = cidade.lower()
+procurar = "santo" in cidade_lower
 
 print('O nome da cidade digitado foi: {}'.format(cidade))
-print('Verificação se possui o nome "Santo" na cidade {}'.format(procurar))
+print('Tem "SANTO" no nome da cidade? {}'.format(procurar))
 '''
 
 
 
 
 # Desafio 25#
+'''print('Digite o seu nome: ')
+n = str(input())
+
+print(n.find('Silva'))
+'''
 
 
 
