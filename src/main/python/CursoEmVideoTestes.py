@@ -318,3 +318,81 @@
 #pygame.mixer.music.load('C:/Users/victor/Codigos_Programação/vscode/Python1/ExercicioPython/src/main/python/ex21.mp3')
 #pygame.mixer.music.play()
 #pygame.time.wait(180000)
+
+
+
+
+#Códigos de exemplos
+
+'''
+frase = 'Curso em Vídeo Python'
+print(frase[3])
+print(frase[3:13])
+print(frase[:13])
+print(frase[13:])
+print(frase[1:15])
+print(frase[1:15:2])
+print(frase[1::2])
+print(frase[::2])
+frase = '   Curso em Vídeo Python   '
+print(frase.count('o'))
+print(frase.upper().count('O'))
+print(len(frase))
+print(len(frase.strip()))
+print(frase.replace('Python', 'Android'))
+print('Curso' in frase)
+print(frase.find('Vídeo'))
+print(frase.lower().find('vídeo'))
+
+dividido = frase.split()
+
+print(dividido[2])
+print(dividido[2][3])
+'''
+
+
+
+
+#Desafio 22#
+#print('Digite o seu nome: ')
+#nome = str(input())
+
+#nome_maisculo = nome.upper()
+
+#nome_minusculo = nome.lower()
+
+#nome_espaco = nome.replace(" ", "")
+#nome_letras = len(nome_espaco)
+
+#dividir =  nome.split()
+#letras_pri_nome = len(dividir[0])
+
+#print('Nome Maísculo: {}'.format(nome_maisculo))
+#print('Nome Minúsculo: {}'. format(nome_minusculo))
+#print('Quantidade de letras no nome sem espaço: {}'.format(nome_letras))
+#print('Quantas letras no primeiro nome: {}'.format(letras_pri_nome))
+
+
+
+
+#Desafio 23#
+
+
+
+
+#Desafio 24#
+
+
+
+
+#Desafio 25#
+
+
+
+
+#Desafio 26#
+
+
+
+
+#Desafio 27#
