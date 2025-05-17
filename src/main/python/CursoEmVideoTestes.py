@@ -416,3 +416,15 @@ print('A ultima aparição é: {}'.format(aparece_ult))
 
 
 # Desafio 27#
+'''
+print('Digite o seu nome: ')
+nome = str(input())
+
+separar_nome = nome.split()
+primeiro_nome = separar_nome[0]
+segundo_nome = separar_nome[-1]
+
+print(('O nome digitado foi: {}'.format(nome)))
+print('Primeiro nome: {}'.format(primeiro_nome))
+print('Segundo Nome: {}'.format(segundo_nome))
+'''
