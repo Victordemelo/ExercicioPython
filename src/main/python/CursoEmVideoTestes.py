@@ -381,10 +381,15 @@ print('Tem "SANTO" no nome da cidade? {}'.format(procurar))
 
 
 # Desafio 25#
-'''print('Digite o seu nome: ')
+'''
+print('Digite o seu nome: ')
 n = str(input())
 
-print(n.find('Silva'))
+n_lower = n.lower()
+procurar = "silva" in n_lower
+
+print('O nome digitado foi: {}'.format(n))
+print('O nome tem silva? {}'.format(procurar))
 '''
 
 
