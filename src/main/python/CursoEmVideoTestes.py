@@ -396,6 +396,7 @@ print('O nome tem silva? {}'.format(procurar))
 
 
 # Desafio 26#
+'''
 print('Digite uma frase qualquer: ')
 frase = str(input())
 
@@ -409,6 +410,7 @@ print("A frase possui {} caracteres".format(frase_cont))
 print('Possui {} "A" na frase'.format(contar))
 print('A primeira aparição é: {}'.format(aparece_pri))
 print('A ultima aparição é: {}'.format(aparece_ult))
+'''
 
 
 
