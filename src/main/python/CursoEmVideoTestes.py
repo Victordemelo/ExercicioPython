@@ -396,6 +396,19 @@ print('O nome tem silva? {}'.format(procurar))
 
 
 # Desafio 26#
+print('Digite uma frase qualquer: ')
+frase = str(input())
+
+frase_cont = len(frase)
+frase_cres = frase.upper()
+contar = frase_cres.count('A')
+aparece_pri = frase_cres.find('A')
+aparece_ult = frase_cres.rfind('A')
+
+print("A frase possui {} caracteres".format(frase_cont))
+print('Possui {} "A" na frase'.format(contar))
+print('A primeira aparição é: {}'.format(aparece_pri))
+print('A ultima aparição é: {}'.format(aparece_ult))
 
 
 
