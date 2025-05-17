@@ -364,7 +364,17 @@ print('O Milhar é: {}'.format(n_milhar))
 
 
 
+
 # Desafio 24#
+'''
+print('Digite um nome de uma cidade: ')
+cidade = str(input())
+
+procurar = (cidade.find('Santo'))
+
+print('O nome da cidade digitado foi: {}'.format(cidade))
+print('Verificação se possui o nome "Santo" na cidade {}'.format(procurar))
+'''
 
 
 
@@ -372,7 +382,11 @@ print('O Milhar é: {}'.format(n_milhar))
 # Desafio 25#
 
 
+
+
 # Desafio 26#
+
+
 
 
 # Desafio 27#
