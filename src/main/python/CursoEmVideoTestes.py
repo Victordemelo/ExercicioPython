@@ -428,3 +428,40 @@ print(('O nome digitado foi: {}'.format(nome)))
 print('Primeiro nome: {}'.format(primeiro_nome))
 print('Segundo Nome: {}'.format(segundo_nome))
 '''
+
+
+
+
+# Desafio 28 #
+'''
+import random
+
+print("Digite um valor de 0 A 5: ")
+valor_digitado = int(input())
+
+n_aleatorio = random.randint(0,5)
+
+if(valor_digitado == n_aleatorio):
+    print("Parabéns, você acertou o número da máquina!!")
+    print("O valor que você digitou foi {}, e o valor da máquina foi {}".format(valor_digitado, n_aleatorio))
+else: 
+    print("Uma pena, não foi dessa vez!")
+    print("O valor que você digitou foi {}, e o valor da máquina foi {}".format(valor_digitado, n_aleatorio))
+'''
+
+
+
+
+# Desafio 29 #
+'''
+print("Digite a velocidade do carro: ")
+velocidade = int(input())
+
+
+if(velocidade > 80):
+    multa = (velocidade-80) * 7.00
+    print("Você tomou uma multa!")
+    print("O valor a pagar é {:.2f}".format(multa))
+
+print("Tenha um Bom dia!")
+'''
