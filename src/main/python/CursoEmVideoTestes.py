@@ -465,3 +465,21 @@ if(velocidade > 80):
 
 print("Tenha um Bom dia!")
 '''
+
+
+
+
+# Desafio 30 #
+'''
+print("Digite um número para ver se ele é par ou impar: ")
+n1 = int(input())
+
+if(n1 % 2 == 0):
+    print("O número digitado é par")
+else:
+    print("O número escolhido é impar")
+'''
+
+
+
+
